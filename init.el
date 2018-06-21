@@ -1,4 +1,4 @@
-;;; init.el --- Spacemacs Initialization File
+;;;; init.el --- Spacemacs Initialization File
 ;;
 ;; Copyright (c) 2012-2016 Sylvain Benner & Contributors
 ;;
